@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/darshshah20](https://github.com/darshshah20)
 
-- 💬 Ask me about **Frontend development,Java,Android.**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **shahdarsh1809@gmail.com**
 
