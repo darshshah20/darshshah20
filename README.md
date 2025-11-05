@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Backend development,JavaScript.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dharven](https://github.com/dharven)
+- 👨‍💻 All of my projects are available at [https://github.com/darshshah20](https://github.com/darshshah20)
 
 - 💬 Ask me about **Frontend development,Java,Android.**
 
-- 📫 How to reach me **dharven123@gmail.com**
+- 📫 How to reach me **shahdarsh1809@gmail.com**
 
 - ⚡ Fun fact **https://www.fiverr.com/share/7XdZyx**
 <br>
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://codepen.io/dharven123" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dharven123" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/dharven-doshi-a497021b0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dharvendoshi" height="30" width="40" /></a>
-<a href="https://instagram.com/ddharven007" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ddharven007" height="30" width="40" /></a>
+<a href="https://instagram.com/darsh_sha" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ddharven007" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
